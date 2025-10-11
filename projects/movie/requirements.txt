@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+lxml
+jieba
+wordcloud
+scikit-learn
+matplotlib
+seaborn
+transformers
+torch
+joblib
