@@ -19,7 +19,7 @@
    👉 详情见 [pv_opt/README.md](projects/pv_opt/README.md)
 
 3.  **补充说明** 
-   👉 另有流体力学数值模拟与强化学习相关科研项目（LBM框架、流体控制等），因课题要求未开源。
+   👉 另有流体力学数值模拟与强化学习相关科研项目（LBM框架、流体控制等），因课题要求未开源。(C++、python、pytorch、PPO、MLP……）
 
 未来将持续更新更多方向探索：
 - 📈 金融量化与策略回测（Quant Research）
